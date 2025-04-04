@@ -200,3 +200,4 @@ cython_debug/
 
 #Reports generated
 Reports/
+config/
