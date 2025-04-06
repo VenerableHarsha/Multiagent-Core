@@ -52,6 +52,7 @@ api_key = "your_vision_model_api_key"
 ---
 
 ## 🧩 How It Works
+![My Diagram](WORKFLOW.png)
 
 The system is powered by:
 - **Model Context Protocols** for shared knowledge across agents
